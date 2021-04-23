@@ -13,7 +13,7 @@ pipeline {
         DEV_PROJECT = "anilbabup-gmail-com-books-dev"
         STAGE_PROJECT = "anilbabup-gmail-com-books-stage"
         APP_GIT_URL = "https://github.com/anilbabup/DO288-apps"
-        NEXUS_SERVER = "http://nexus-common.apps.ap45.prod.nextcle.comrepositor/nodejs"
+        NEXUS_SERVER = "http://nexus-common.apps.ap45.prod.nextcle.com/repositor/nodejs"
 
         // DO NOT CHANGE THE GLOBAL VARS BELOW THIS LINE
         APP_NAME = "books"
